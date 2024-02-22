@@ -1,7 +1,7 @@
 ### Hi there 👋
-https://camo.githubusercontent.com/91e40560239b38a2edb129b7787a859355318dd8fee2ec8e385fc6939e5c27e2/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d736174796172616e6a616e726179266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174
-<!--
-**Pathiik24/Pathiik24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Pathiik24/Pathiik24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.             ![giphy](https://github.com/Pathiik24/Pathiik24/assets/112370895/027823f5-531a-48bc-9bc2-b686ced00518)
+
 
 Here are some ideas to get you started:
 
