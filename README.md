@@ -4,7 +4,7 @@
 
 Hey there! I'm Pathik- The Data Poet, your guide to the captivating realm of data analytics. 👋
 											
-	   ![giphy](https://github.com/Pathiik24/Pathiik24/assets/112370895/027823f5-531a-48bc-9bc2-b686ced00518)
+![giphy](https://github.com/Pathiik24/Pathiik24/assets/112370895/027823f5-531a-48bc-9bc2-b686ced00518)
 
 ## About Me
 
